@@ -1,0 +1,6 @@
+{
+  "name": "Graph-Based Misinformation Propagation Detection and Containment System",
+  "description": "An educational graph-theoretic simulation exploring information propagation, propositional logic credibility scoring, recurrence relation prediction, and node containment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
